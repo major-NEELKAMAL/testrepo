@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-this is br1! hello
-=======
-this is br1! world!
->>>>>>> br2a
+
+this is br1! hello world!
+
+
